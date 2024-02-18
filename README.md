@@ -60,7 +60,7 @@ It is difficult to make recommendations for products or services to modular. The
 
 These offerings could help accelerate early adoption of MAX and Mojo in the AI Industry.  They would also give Modular and use based income stream.  In an industry dependent of compute power and ease of deployment, this is where the majority of the revenue could be earned.
 
-References:
+## References:
 
 1. Inference Engine. (2023, February 17) In Wikipedia. https://en.wikipedia.org/wiki/Inference_engine
 
